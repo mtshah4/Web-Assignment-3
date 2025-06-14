@@ -1,7 +1,7 @@
 {
-  "name": "web322-assignment2",
+  "name": "web322-assignment3",
   "version": "1.0.0",
-  "description": "WEB322 Assignment 2",
+  "description": "WEB322 Assignment 3",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
