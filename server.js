@@ -10,7 +10,7 @@
 *  Student ID: 147513238
 *  Date: 13-06-25
 *
-*  Published URL: [Your Vercel URL will go here after deployment]
+*  Published URL: https://web-assignment-3-qmxynxvxq-mann-shahs-projects-56d8c3ed.vercel.app
 *
 **********************************************************************************/
 
